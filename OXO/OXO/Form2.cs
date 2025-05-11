@@ -113,7 +113,7 @@ namespace OXO
                     hod = Convert.ToInt32(enemyData[3]);
                     ValueArr = Convert.ToInt32(enemyData[2]);
                     CheckChoise = Convert.ToBoolean(enemyData[4]);
-                    Proverka.Pr = true;
+                    Proverka.pr = true;
                     Console.WriteLine(Proverka.pr);
                 }
 
@@ -203,7 +203,7 @@ namespace OXO
             button10.Text = GetValueForButton(array[2, 2]);
 
         }
-        // Метод для определения текста для кнопки на основе значения в массиве
+
         public string GetValueForButton(int value)
         {
             Console.WriteLine("GetValueForButton " + value);
@@ -656,10 +656,6 @@ namespace OXO
 
         private void button12_Click(object sender, EventArgs e)
         {
-            
-        }
-        public void UpdateAll()
-        {
             if (Proverka.pr == true)
             {
                 CheckGroupBoxChoise(CheckChoise);
@@ -669,24 +665,11 @@ namespace OXO
             }
             ChekHod();
             Viktory();
+
         }
     }
     public static class Proverka
     {
         public static bool pr = false;
-        public static bool Pr
-        {
-            get { return pr; }
-            set
-            {
-                if (pr != value)
-                {
-                    Console.WriteLine(value);
-                    pr = value;
-                    Form2.form2.UpdateAll();
-                    Console.WriteLine(value);
-                }
-            }
-        }
     }
 }

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ExampleCs2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("examTheory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e771b09c4b533fb56e0182696174ae242ff1cbe2")]
-[assembly: System.Reflection.AssemblyProductAttribute("ExampleCs2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ExampleCs2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("examTheory")]
+[assembly: System.Reflection.AssemblyTitleAttribute("examTheory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
