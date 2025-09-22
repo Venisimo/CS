@@ -1,0 +1,15 @@
+C:\Users\lysov.2020\source\repos\Sem3_Pract_1\Sem3_Pract_1\bin\Debug\net8.0\Sem3_Pract_1.exe
+C:\Users\lysov.2020\source\repos\Sem3_Pract_1\Sem3_Pract_1\bin\Debug\net8.0\Sem3_Pract_1.deps.json
+C:\Users\lysov.2020\source\repos\Sem3_Pract_1\Sem3_Pract_1\bin\Debug\net8.0\Sem3_Pract_1.runtimeconfig.json
+C:\Users\lysov.2020\source\repos\Sem3_Pract_1\Sem3_Pract_1\bin\Debug\net8.0\Sem3_Pract_1.dll
+C:\Users\lysov.2020\source\repos\Sem3_Pract_1\Sem3_Pract_1\bin\Debug\net8.0\Sem3_Pract_1.pdb
+C:\Users\lysov.2020\source\repos\Sem3_Pract_1\Sem3_Pract_1\obj\Debug\net8.0\Sem3_Pract_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lysov.2020\source\repos\Sem3_Pract_1\Sem3_Pract_1\obj\Debug\net8.0\Sem3_Pract_1.AssemblyInfoInputs.cache
+C:\Users\lysov.2020\source\repos\Sem3_Pract_1\Sem3_Pract_1\obj\Debug\net8.0\Sem3_Pract_1.AssemblyInfo.cs
+C:\Users\lysov.2020\source\repos\Sem3_Pract_1\Sem3_Pract_1\obj\Debug\net8.0\Sem3_Pract_1.csproj.CoreCompileInputs.cache
+C:\Users\lysov.2020\source\repos\Sem3_Pract_1\Sem3_Pract_1\obj\Debug\net8.0\Sem3_Pract_1.sourcelink.json
+C:\Users\lysov.2020\source\repos\Sem3_Pract_1\Sem3_Pract_1\obj\Debug\net8.0\Sem3_Pract_1.dll
+C:\Users\lysov.2020\source\repos\Sem3_Pract_1\Sem3_Pract_1\obj\Debug\net8.0\refint\Sem3_Pract_1.dll
+C:\Users\lysov.2020\source\repos\Sem3_Pract_1\Sem3_Pract_1\obj\Debug\net8.0\Sem3_Pract_1.pdb
+C:\Users\lysov.2020\source\repos\Sem3_Pract_1\Sem3_Pract_1\obj\Debug\net8.0\Sem3_Pract_1.genruntimeconfig.cache
+C:\Users\lysov.2020\source\repos\Sem3_Pract_1\Sem3_Pract_1\obj\Debug\net8.0\ref\Sem3_Pract_1.dll
