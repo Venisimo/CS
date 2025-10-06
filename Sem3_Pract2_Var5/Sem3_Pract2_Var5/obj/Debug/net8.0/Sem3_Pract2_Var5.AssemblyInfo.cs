@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sem3_Pract2_Var5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18dfaa5e1e2c1e6983387a0975616d86f0530453")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09f15adc3376211ead4fd3969e5c0cb70f39d557")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sem3_Pract2_Var5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sem3_Pract2_Var5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

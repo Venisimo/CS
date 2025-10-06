@@ -42,8 +42,7 @@ namespace Sem3_Pract2_Var5
 
         public static void InteractionWithTea(IDrink drink)
         {
-            if (drink is not Tea tea)
-                throw new InvalidCastException("Ожидался объект типа Tea");
+            if (drink is not Tea tea) throw new InvalidCastException("Ожидался объект типа Tea");
 
             Console.WriteLine("Действия с чаем:");
             Console.WriteLine("1. Заварить");

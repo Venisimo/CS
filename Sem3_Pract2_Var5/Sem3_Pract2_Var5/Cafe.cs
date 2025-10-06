@@ -16,10 +16,11 @@ namespace Sem3_Pract2_Var5
         {
             get
             {
-                if (index < 0 || index >= drinks.Count)
-                    throw new IndexOutOfRangeException($"Индекс {index} вне диапазона [0, {drinks.Count - 1}]");
+                if (index < 0 || index >= DrinkCount)
+                    throw new IndexOutOfRangeException($"Индекс {index} вне диапазона [0, {DrinkCount - 1}]");
                 return drinks[index];
             }
+            set { drinks[index] = value; }
         }
 
         public void AddDrink(IDrink drink)
@@ -30,13 +31,13 @@ namespace Sem3_Pract2_Var5
         public void ShowDrinks()
         {
             Console.WriteLine("===== Меню =====");
-            if (drinks.Count == 0)
+            if (DrinkCount == 0)
             {
                 Console.WriteLine("Меню пусто!");
                 return;
             }
 
-            for (int i = 0; i < drinks.Count; i++)
+            for (int i = 0; i < DrinkCount; i++)
             {
                 Console.WriteLine($"{i + 1}. {drinks[i].Name} - {drinks[i].Price} руб.");
             }

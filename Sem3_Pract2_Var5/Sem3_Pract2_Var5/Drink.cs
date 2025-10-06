@@ -32,7 +32,7 @@ namespace Sem3_Pract2_Var5
                 }
                 else if (value > MAX_PRICE)
                 {
-                    Console.WriteLine($"Цена увеличена до максимальной: {MAX_PRICE} рублей");
+                    Console.WriteLine($"Цена уменьшена до максимальной: {MAX_PRICE} рублей");
                     price = MAX_PRICE;
                 } 
                 else price = value;
