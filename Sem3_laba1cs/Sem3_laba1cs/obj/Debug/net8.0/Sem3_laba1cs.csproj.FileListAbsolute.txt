@@ -1,0 +1,15 @@
+C:\Users\lysov.2020\source\repos\Sem3_laba1cs\Sem3_laba1cs\bin\Debug\net8.0\Sem3_laba1cs.exe
+C:\Users\lysov.2020\source\repos\Sem3_laba1cs\Sem3_laba1cs\bin\Debug\net8.0\Sem3_laba1cs.deps.json
+C:\Users\lysov.2020\source\repos\Sem3_laba1cs\Sem3_laba1cs\bin\Debug\net8.0\Sem3_laba1cs.runtimeconfig.json
+C:\Users\lysov.2020\source\repos\Sem3_laba1cs\Sem3_laba1cs\bin\Debug\net8.0\Sem3_laba1cs.dll
+C:\Users\lysov.2020\source\repos\Sem3_laba1cs\Sem3_laba1cs\bin\Debug\net8.0\Sem3_laba1cs.pdb
+C:\Users\lysov.2020\source\repos\Sem3_laba1cs\Sem3_laba1cs\obj\Debug\net8.0\Sem3_laba1cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lysov.2020\source\repos\Sem3_laba1cs\Sem3_laba1cs\obj\Debug\net8.0\Sem3_laba1cs.AssemblyInfoInputs.cache
+C:\Users\lysov.2020\source\repos\Sem3_laba1cs\Sem3_laba1cs\obj\Debug\net8.0\Sem3_laba1cs.AssemblyInfo.cs
+C:\Users\lysov.2020\source\repos\Sem3_laba1cs\Sem3_laba1cs\obj\Debug\net8.0\Sem3_laba1cs.csproj.CoreCompileInputs.cache
+C:\Users\lysov.2020\source\repos\Sem3_laba1cs\Sem3_laba1cs\obj\Debug\net8.0\Sem3_laba1cs.sourcelink.json
+C:\Users\lysov.2020\source\repos\Sem3_laba1cs\Sem3_laba1cs\obj\Debug\net8.0\Sem3_laba1cs.dll
+C:\Users\lysov.2020\source\repos\Sem3_laba1cs\Sem3_laba1cs\obj\Debug\net8.0\refint\Sem3_laba1cs.dll
+C:\Users\lysov.2020\source\repos\Sem3_laba1cs\Sem3_laba1cs\obj\Debug\net8.0\Sem3_laba1cs.pdb
+C:\Users\lysov.2020\source\repos\Sem3_laba1cs\Sem3_laba1cs\obj\Debug\net8.0\Sem3_laba1cs.genruntimeconfig.cache
+C:\Users\lysov.2020\source\repos\Sem3_laba1cs\Sem3_laba1cs\obj\Debug\net8.0\ref\Sem3_laba1cs.dll
