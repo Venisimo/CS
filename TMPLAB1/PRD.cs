@@ -13,12 +13,14 @@ namespace TMPLAB1
         public int p_FirstRec { get; set; }
         public int p_FreeSpace { get; set; }
         public byte[] NameSpec { get; set; } = new byte[16];
+        public bool IsOpen { get; set; }
 
         public FileHeaderPRD()
         {
             // Устанавливаем сигнатуру
             Signature[0] = (byte)'P';
             Signature[1] = (byte)'S';
+            IsOpen = false;
         }
     }
 
